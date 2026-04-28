@@ -1,6 +1,8 @@
 node_modules/
 dist/
 src/generated/
+public/rss.xml
+public/sitemap.xml
 *.local
 .DS_Store
 
