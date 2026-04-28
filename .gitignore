@@ -1,0 +1,10 @@
+node_modules/
+dist/
+src/generated/
+*.local
+.DS_Store
+
+# AI/agent files
+AGENTS.md
+.opencode/
+.claude/
